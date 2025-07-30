@@ -27,4 +27,6 @@ This project is deployed using Vercel.
 
 Certain components and layouts from this project are inspired by Soumyajit4419!
 
+## Preview
+
 <img width="1905" height="911" alt="Screenshot 2025-07-30 105845" src="https://github.com/user-attachments/assets/cbc09beb-3fce-4d43-b25e-dff7f7025f29" />

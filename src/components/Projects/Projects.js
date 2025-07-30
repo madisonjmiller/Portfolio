@@ -26,7 +26,7 @@ function Projects() {
               imgPath={portfolio}
               title="Portfolio Website"
               description="An online personal portfolio featuring a little bit about me, some of my Github projects, technical skills, and my resume. I set up the architecture from scratch with React but the theme and certain compenents are inspired by Soumyajit4419!"
-              ghLink="https://github.com/madisonjmiller/class-mosaic"
+              ghLink="https://github.com/madisonjmiller/madison-miller"
             />
           </Col>
         </Row>

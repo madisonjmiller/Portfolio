@@ -14,7 +14,7 @@ function ProjectCards(props) {
           {props.description}
         </Card.Text>
         
-        /* Only show the GitHub button if a GitHub link is provided */
+        {/* Only show the GitHub button if a GitHub link is provided */}
         {props.ghLink && (
           <Button variant="primary" href={props.ghLink} target="_blank">
             <BsGithub /> &nbsp;
@@ -24,7 +24,7 @@ function ProjectCards(props) {
         {"\n"}
         {"\n"}
 
-        /* If the component contains Demo link and if it's not a Blog then, it will render the below component  */
+        {/* If the component contains Demo link and if it's not a Blog then, it will render the below component  */}
         {!props.isBlog && props.demoLink && (
           <Button
             variant="primary"

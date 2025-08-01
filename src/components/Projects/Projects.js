@@ -34,7 +34,7 @@ function Projects() {
             <ProjectCard
               imgPath={uwm}
               title="CRON to Azure Conversion"
-              description="Migrated 4 legacy CRON jobs into C# Azure Functions, resulting in reduced operational overhead, increased maintainability, and more scalable cloud infrastructure. Modernized old email-sending solution and architected a Kafka-based solution that automated email sending within an Azure Function. Acquired hands-on experience in full-stack application development, version control and enterprise-grade software lifecycle processes, contributing to a production ready feature and maintaining 80%+ code coverage"
+              description="Migrated 4 legacy CRON jobs into C# Azure Functions, resulting in reduced operational overhead, increased maintainability, and more scalable cloud infrastructure. Modernized old email-sending solution and architected a Kafka-based solution that automated email sending within an Azure Function. Acquired hands-on experience in full-stack application development, version control and enterprise-grade software lifecycle processes, contributing to a production ready feature and maintaining 80%+ code coverage during my experience at United Wholesale Mortgage."
             />
           </Col>
         </Row>

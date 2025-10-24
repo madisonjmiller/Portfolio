@@ -66,6 +66,7 @@ function NavBar() {
               </Container>
             </Nav.Item>
 
+            /*
             <Nav.Item>
               <Container to="/resume">
                 <Nav.Link as={Link} to="/resume" onClick={() => setExpanded(false)}>
@@ -73,6 +74,7 @@ function NavBar() {
                 </Nav.Link>
               </Container>
             </Nav.Item>
+            */
             
             <Nav.Item className="fork-btn">
               <Button
@@ -91,3 +93,4 @@ function NavBar() {
 }
 
 export default NavBar;
+

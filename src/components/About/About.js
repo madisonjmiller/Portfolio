@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard.js";
-//import laptopImg from "../../Assets/about.png";
+import msuJob from "../../Assets/msu-job.png";
 import Toolstack from "./Toolstack";
 
 function About() {
@@ -28,7 +28,7 @@ function About() {
             style={{ paddingTop: "120px", paddingBottom: "50px" }}
             className="about-img"
           >
-           
+          <img src={msuJob} alt="about" className="img-fluid" />
           </Col>
         </Row>
         <h1 className="project-heading">
@@ -49,4 +49,4 @@ function About() {
 
 export default About;
 
-//<img src={laptopImg} alt="about" className="img-fluid" />
+

@@ -8,7 +8,8 @@ import {
 import { BiLogoVisualStudio } from "react-icons/bi";
 import { DiGit, DiVisualstudio } from "react-icons/di";
 import { TbBrandBitbucketFilled } from "react-icons/tb";
-import { AiOutlineLinux, SiJira } from "react-icons/ai";
+import { AiOutlineLinux } from "react-icons/ai";
+import { SiJira } from "react-icons/si";
 
 
 function Toolstack() {
@@ -47,3 +48,4 @@ function Toolstack() {
 
 
 export default Toolstack;
+

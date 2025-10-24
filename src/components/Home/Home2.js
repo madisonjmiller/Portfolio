@@ -25,7 +25,7 @@ function Home2() {
               <br />
               My primary areas of interest include developing innovative&nbsp;
               <i>
-                <b className="blue">Web Technologies and Products </b>
+                <b className="blue">Web Technologies, Products, and Technical Solutions</b>
               </i>
               <br />
               <br />
@@ -86,4 +86,5 @@ function Home2() {
     </Container>
   );
 }
+
 export default Home2;

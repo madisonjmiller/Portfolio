@@ -15,7 +15,7 @@ function AboutCard() {
             Hi!! I am <span className="blue"><b>Madison Miller</b> </span>
             from <span className="blue"><b>East Lansing, MI</b>.</span>
             <br />
-            I’m passionate about building data-driven, user-focused technology that bridges <span className="blue"><b>business</b></span> and <span className="blue"><b>engineering</b>.</span>.
+            I’m passionate about building technology that bridges <span className="blue"><b>business</b></span> and <span className="blue"><b>engineering</b>.</span>
             <br />
             I'm a senior at <span className="blue"><b>Michigan State University</b>,</span>
             <br />
@@ -52,3 +52,4 @@ function AboutCard() {
 
 
 export default AboutCard;
+

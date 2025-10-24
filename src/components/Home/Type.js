@@ -7,7 +7,8 @@ function Type() {
       options={{
         strings: [
           "Software Engineer",
-          "Full Stack Developer"
+          "Solutions Engineer",
+          "Creative Technologist"
         ],
         autoStart: true,
         loop: true,
@@ -16,5 +17,6 @@ function Type() {
     />
   );
 }
+
 
 export default Type;

@@ -427,7 +427,7 @@ button:focus {
 }
 
 .footer h3 {
-  font-size: 1em;
+  font-size: 0.8em;
   color: rgb(255, 255, 255) !important;
   margin-top: 0.5em !important;
   margin-bottom: 0.5em !important;
@@ -727,4 +727,5 @@ button:focus {
 }
 .fork-btn-inner::after {
   display: none !important;
+
 }

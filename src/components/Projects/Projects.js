@@ -20,6 +20,7 @@ function Projects() {
               title="Class Mosaic"
               description="A web-based scheduling tool that helps students build their ideal class schedules. Users can input available courses, and ClassMosaic intelligently generates optimized weekly schedules using multiple custom-built algorithms tailored to different preferences and lifestyles."
               ghLink="https://github.com/madisonjmiller/class-mosaic"
+              demoLink="https://class-mosaic-scheduler.vercel.app/"
             />
           </Col>
           <Col md={4} className="project-card">
@@ -44,4 +45,5 @@ function Projects() {
 }
 
 export default Projects;
+
 
